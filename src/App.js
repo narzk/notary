@@ -4,7 +4,7 @@ import logo from "./assets/logo.svg";
 function App() {
   return (
     <div className="App">
-      <img src={logo} />
+      <img src={logo} alt="logo"/>
       <div className="title">
         <span>۱۴</span>
         <span>شهریار</span>
