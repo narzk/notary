@@ -10,9 +10,12 @@
 .container div {
   margin: 10px;
 }
+form{
+  width: 100%;
+  margin-bottom: 1rem;
+}
 .button {
   padding: 20px;
-  margin: 10px;
   font-size: 2rem;
   width: 100%;
   border: none;
